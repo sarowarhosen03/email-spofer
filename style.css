@@ -1,0 +1,76 @@
+h3{
+
+   display: inline;
+
+}
+
+.block{
+
+   display: block;
+
+}
+
+button:hover , button:active {
+
+   background:green;
+
+   transition-duration: 2s;
+
+   transition-timing-function: linear;
+
+   transition-delay: 1s;
+
+   
+
+}
+
+h2 a{
+
+   margin-left: 50%;
+
+   margin-right: 50%;
+
+   text-align: center;
+
+   margin-bottom: 1px;
+
+   
+
+   color: #fff;
+
+}
+
+*{ 
+
+   background: black;
+
+   color: greenyellow;
+
+}
+
+h2{
+
+   font-size: 20px; 
+
+   color: green;
+
+}
+
+.welcome{
+
+   font-size:bolder;
+
+   color: white;
+
+   font-family: sans-serif;
+
+}
+
+textarea{
+
+   margin: 5% 10%;
+
+   
+
+}
+
